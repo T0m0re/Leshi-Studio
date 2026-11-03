@@ -7,16 +7,16 @@
       "description": "A vibrant building editorial celebrating colour, natural light, and contemporary summer style.",
       "year": "2026",
       "pictures": [
-        "/src/data/la casa/lacasa_1.webp",
-        "/src/data/la casa/lacasa_2.webp",
-        "/src/data/la casa/lacasa_3.webp",
-        "/src/data/la casa/lacasa_4.webp",
-        "/src/data/la casa/lacasa_5.webp",
-        "/src/data/la casa/lacasa_6.webp",
-        "/src/data/la casa/lacasa_7.webp",
-        "/src/data/la casa/lacasa_8.webp",
-        "/src/data/la casa/lacasa_9.webp",
-        "/src/data/la casa/lacasa_10.webp"
+        "/la casa/lacasa_1.webp",
+        "/la casa/lacasa_2.webp",
+        "/la casa/lacasa_3.webp",
+        "/la casa/lacasa_4.webp",
+        "/la casa/lacasa_5.webp",
+        "/la casa/lacasa_6.webp",
+        "/la casa/lacasa_7.webp",
+        "/la casa/lacasa_8.webp",
+        "/la casa/lacasa_9.webp",
+        "/la casa/lacasa_10.webp"
       ]
     },
     {
@@ -25,16 +25,16 @@
         "description": "A series of images showcasing various hardware components and their intricate designs.",
         "year": "2025",
         "pictures": [
-          "/src/data/hardware/hardware_1.webp",
-          "/src/data/hardware/hardware_2.webp",
-          "/src/data/hardware/hardware_3.webp",
-          "/src/data/hardware/hardware_4.webp",
-          "/src/data/hardware/hardware_5.gif",
-          "/src/data/hardware/hardware_6.webp",
-          "/src/data/hardware/hardware_7.webp",
-          "/src/data/hardware/hardware_8.webp",
-          "/src/data/hardware/hardware_9.webp",
-          "/src/data/hardware/hardware_10.webp"
+          "/hardware/hardware_1.webp",
+          "/hardware/hardware_2.webp",
+          "/hardware/hardware_3.webp",
+          "/hardware/hardware_4.webp",
+          "/hardware/hardware_5.gif",
+          "/hardware/hardware_6.webp",
+          "/hardware/hardware_7.webp",
+          "/hardware/hardware_8.webp",
+          "/hardware/hardware_9.webp",
+          "/hardware/hardware_10.webp"
         ]
     },
     {
@@ -43,15 +43,15 @@
             "description": "A collection of images highlighting the beauty and diversity of human faces and protective cases.",
             "year": "2024",
             "pictures": [
-            "/src/data/cases/cases_1.webp",
-            "/src/data/cases/cases_2.webp",
-            "/src/data/cases/cases_3.webp",
-            "/src/data/cases/cases_4.webp",
-            "/src/data/cases/cases_5.webp",
-            "/src/data/cases/cases_6.webp",
-            "/src/data/cases/cases_7.webp",
-            "/src/data/cases/cases_8.webp",
-            "/src/data/cases/cases_9.webp"
+            "/cases/cases_1.webp",
+            "/cases/cases_2.webp",
+            "/cases/cases_3.webp",
+            "/cases/cases_4.webp",
+            "/cases/cases_5.webp",
+            "/cases/cases_6.webp",
+            "/cases/cases_7.webp",
+            "/cases/cases_8.webp",
+            "/cases/cases_9.webp"
             ]
     },
     {
@@ -60,16 +60,16 @@
             "description": "A visual exploration of the landscapes and culture of Adamawa state.",
             "year": "2025",
             "pictures": [
-            "/src/data/adamawa/adamawa_1.webp",
-            "/src/data/adamawa/adamawa_2.webp",
-            "/src/data/adamawa/adamawa_3.webp",
-            "/src/data/adamawa/adamawa_4.webp",
-            "/src/data/adamawa/adamawa_5.webp",
-            "/src/data/adamawa/adamawa_6.webp",
-            "/src/data/adamawa/adamawa_7.webp",
-            "/src/data/adamawa/adamawa_8.webp",
-            "/src/data/adamawa/adamawa_9.webp",
-            "/src/data/adamawa/adamawa_10.webp"
+            "/adamawa/adamawa_1.webp",
+            "/adamawa/adamawa_2.webp",
+            "/adamawa/adamawa_3.webp",
+            "/adamawa/adamawa_4.webp",
+            "/adamawa/adamawa_5.webp",
+            "/adamawa/adamawa_6.webp",
+            "/adamawa/adamawa_7.webp",
+            "/adamawa/adamawa_8.webp",
+            "/adamawa/adamawa_9.webp",
+            "/adamawa/adamawa_10.webp"
             ]
     },
     {
@@ -78,16 +78,16 @@
             "description": "A portrayal of diverse individuals and their unique stories.",
             "year": "2024",
             "pictures": [
-            "/src/data/people/people_1.webp",
-            "/src/data/people/people_2.webp",
-            "/src/data/people/people_3.webp",
-            "/src/data/people/people_4.webp",
-            "/src/data/people/people_5.webp",
-            "/src/data/people/people_6.webp",
-            "/src/data/people/people_7.webp",
-            "/src/data/people/people_8.webp",
-            "/src/data/people/people_9.webp",
-            "/src/data/people/people_10.webp"
+            "/people/people_1.webp",
+            "/people/people_2.webp",
+            "/people/people_3.webp",
+            "/people/people_4.webp",
+            "/people/people_5.webp",
+            "/people/people_6.webp",
+            "/people/people_7.webp",
+            "/people/people_8.webp",
+            "/people/people_9.webp",
+            "/people/people_10.webp"
             ]
     }
   ]
