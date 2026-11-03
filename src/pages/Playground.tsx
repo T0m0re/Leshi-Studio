@@ -15,13 +15,13 @@ export default function Playground() {
       width: "280px",
       border: "1px solid #000",
       alignSelf: "stretch",
-      transition: { duration: 0.3, ease: "easeInOut" },
+      transition: { duration: 0.3, ease: "easeInOut" as const },
     },
     closed: {
       alignSelf: "start",
       width: "fit-content",
       border: "none",
-      transition: { duration: 0.3, ease: "easeInOut" },
+      transition: { duration: 0.3, ease: "easeInOut" as const },
 
     },
   };

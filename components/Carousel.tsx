@@ -1,21 +1,18 @@
 import * as motion from "motion/react-client"
 import LinkFlick from "./LinkFlick"
-import { useState } from "react";
 import { useMotionValue } from "motion/react";
 
 const DRAGG_BUFFER = 50
 
 const Carousel = ({pictures, setIsCarouselVisible, currentIndex, setCurrentIndex} : {pictures: string[]; setIsCarouselVisible: (visible: boolean) => void; currentIndex : number; setCurrentIndex: (value: number | ((prev: number) => number)) => void}) => {
-  const [dragging, setDragging] = useState(false)
+  
   const dragX = useMotionValue(0)
 
   const onDragStart = () => {
-    setDragging(true)
   
   }
 
   const onDragEnd = () => {
-    setDragging(false)
 
     const x = dragX.get();
 

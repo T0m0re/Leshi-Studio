@@ -1,6 +1,12 @@
-import { motion } from "motion/react";
+import { motion, type Variants } from "motion/react";
 
-export default function SplitText({ text, className = "" }) {
+export default function SplitText({
+  text,
+  className = "",
+}: {
+  text: string;
+  className?: string;
+}) {
   const words = text.split(" ");
 
   const container = {
@@ -12,7 +18,7 @@ export default function SplitText({ text, className = "" }) {
     },
   };
 
-  const child = {
+  const child: Variants = {
     hidden: {
       y: "100%",
       opacity: 0,
@@ -36,7 +42,7 @@ export default function SplitText({ text, className = "" }) {
       className={className}
       aria-label={text}
     >
-      {words.map((word: string, index: string) => (
+      {words.map((word: string, index: number) => (
         <span
           key={index}
           className="inline-block overflow-hidden mr-[0.25em]"
